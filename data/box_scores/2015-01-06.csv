@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,19,81,27,25,6,34,37,21,7,240,12,16,7,Team.PHOENIX_SUNS,19,2015-01-06
+1,22,88,22,20,5,31,37,19,3,240,13,21,9,Team.MILWAUKEE_BUCKS,17,2015-01-06
+2,19,87,28,19,3,30,41,20,3,240,15,28,10,Team.DETROIT_PISTONS,14,2015-01-06
+3,24,79,34,21,6,28,36,23,9,240,13,21,6,Team.SAN_ANTONIO_SPURS,17,2015-01-06

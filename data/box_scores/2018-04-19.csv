@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,28,81,37,34,5,35,41,28,18,240,6,26,10,Team.PHILADELPHIA_76ERS,10,2018-04-19
+1,26,73,35,33,9,30,33,26,16,240,5,30,7,Team.MIAMI_HEAT,15,2018-04-19
+2,19,80,25,31,3,33,37,19,9,240,11,19,10,Team.PORTLAND_TRAIL_BLAZERS,24,2018-04-19
+3,27,87,19,27,4,32,46,16,11,240,6,23,16,Team.NEW_ORLEANS_PELICANS,12,2018-04-19
+4,26,82,18,32,7,35,42,16,10,240,4,16,8,Team.GOLDEN_STATE_WARRIORS,10,2018-04-19
+5,19,87,20,33,5,31,37,16,7,240,10,21,8,Team.SAN_ANTONIO_SPURS,10,2018-04-19

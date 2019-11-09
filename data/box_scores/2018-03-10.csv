@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,27,83,19,32,3,30,42,13,18,240,5,25,9,Team.PHOENIX_SUNS,14,2018-03-10
+1,24,87,27,32,5,34,44,21,13,240,7,18,11,Team.CHARLOTTE_HORNETS,12,2018-03-10
+2,19,84,17,18,4,32,30,13,7,240,9,24,4,Team.MEMPHIS_GRIZZLIES,14,2018-03-10
+3,21,77,35,29,3,43,37,30,10,240,9,18,8,Team.DALLAS_MAVERICKS,10,2018-03-10
+4,20,84,27,24,2,24,38,21,8,240,9,19,12,Team.ORLANDO_MAGIC,14,2018-03-10
+5,17,78,28,18,3,33,41,24,7,240,8,20,9,Team.LOS_ANGELES_CLIPPERS,15,2018-03-10
+6,22,77,34,20,2,32,34,27,7,240,8,20,4,Team.WASHINGTON_WIZARDS,15,2018-03-10
+7,27,88,21,28,5,37,52,15,10,240,5,25,9,Team.MIAMI_HEAT,10,2018-03-10
+8,26,86,7,20,3,37,40,4,10,240,6,22,6,Team.SAN_ANTONIO_SPURS,14,2018-03-10
+9,24,85,24,28,4,38,39,16,10,240,11,13,8,Team.OKLAHOMA_CITY_THUNDER,15,2018-03-10

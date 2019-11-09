@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,28,83,32,25,5,44,48,22,9,240,10,24,12,Team.OKLAHOMA_CITY_THUNDER,20,2015-01-18
+1,18,88,27,23,2,23,35,21,8,240,10,29,9,Team.ORLANDO_MAGIC,18,2015-01-18
+2,23,84,16,10,13,36,28,10,3,240,12,17,7,Team.UTAH_JAZZ,12,2015-01-18
+3,23,80,23,17,6,38,31,19,8,240,11,14,8,Team.SAN_ANTONIO_SPURS,10,2015-01-18
+4,19,82,20,17,2,30,39,12,5,240,11,20,8,Team.NEW_ORLEANS_PELICANS,17,2015-01-18
+5,18,72,29,25,5,30,31,24,7,240,7,18,9,Team.TORONTO_RAPTORS,15,2015-01-18

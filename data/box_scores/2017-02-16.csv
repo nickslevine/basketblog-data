@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,24,77,20,37,4,27,36,17,14,240,4,18,2,Team.BOSTON_CELTICS,7,2017-02-16
+1,23,90,22,25,6,36,38,22,6,240,15,13,2,Team.CHICAGO_BULLS,7,2017-02-16
+2,23,83,15,29,3,31,43,10,15,240,8,19,5,Team.WASHINGTON_WIZARDS,10,2017-02-16
+3,21,80,18,18,1,30,40,14,4,240,5,12,7,Team.INDIANA_PACERS,11,2017-02-16

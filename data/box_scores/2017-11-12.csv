@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,18,69,23,24,8,30,32,20,10,240,6,20,8,Team.TORONTO_RAPTORS,17,2017-11-12
+1,24,87,19,26,2,31,35,15,10,240,15,18,9,Team.BOSTON_CELTICS,14,2017-11-12
+2,25,90,16,37,5,32,39,12,13,240,7,22,8,Team.MIAMI_HEAT,9,2017-11-12
+3,24,87,20,28,5,43,42,14,14,240,11,17,2,Team.DETROIT_PISTONS,13,2017-11-12
+4,24,90,18,47,5,37,43,15,17,240,10,20,10,Team.HOUSTON_ROCKETS,13,2017-11-12
+5,18,83,21,22,7,34,37,13,8,240,7,15,5,Team.INDIANA_PACERS,13,2017-11-12
+6,18,87,18,37,4,30,37,14,11,240,11,20,9,Team.DALLAS_MAVERICKS,20,2017-11-12
+7,21,72,33,32,4,34,36,25,15,240,3,23,10,Team.OKLAHOMA_CITY_THUNDER,15,2017-11-12

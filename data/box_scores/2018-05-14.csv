@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,24,80,25,33,4,34,42,22,13,240,3,17,9,Team.GOLDEN_STATE_WARRIORS,9,2018-05-14
+1,18,85,21,37,3,35,39,15,13,240,7,23,5,Team.HOUSTON_ROCKETS,13,2018-05-14

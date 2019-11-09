@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,82,22,37,4,31,38,18,10,240,11,24,7,Team.BOSTON_CELTICS,13,2017-04-23
+1,19,76,33,24,3,32,32,26,5,240,12,23,5,Team.CHICAGO_BULLS,12,2017-04-23
+2,11,90,27,31,8,33,37,23,9,240,15,15,9,Team.CLEVELAND_CAVALIERS,13,2017-04-23
+3,21,88,17,30,6,33,41,10,10,240,9,22,8,Team.INDIANA_PACERS,14,2017-04-23
+4,19,85,33,35,2,32,37,28,11,240,13,26,13,Team.HOUSTON_ROCKETS,19,2017-04-23
+5,20,85,32,19,12,30,42,18,7,240,10,20,10,Team.OKLAHOMA_CITY_THUNDER,17,2017-04-23
+6,17,75,29,32,0,25,33,21,11,240,6,18,8,Team.LOS_ANGELES_CLIPPERS,9,2017-04-23
+7,24,74,21,22,3,35,40,15,10,240,7,17,7,Team.UTAH_JAZZ,12,2017-04-23

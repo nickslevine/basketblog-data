@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,26,83,36,40,1,28,36,25,13,240,9,32,14,Team.WASHINGTON_WIZARDS,15,2018-12-18
+1,23,79,39,32,5,36,37,32,12,240,13,29,4,Team.ATLANTA_HAWKS,23,2018-12-18
+2,21,90,23,40,4,40,42,13,13,240,8,19,6,Team.LOS_ANGELES_LAKERS,14,2018-12-18
+3,27,91,19,34,4,36,44,13,14,240,4,18,5,Team.BROOKLYN_NETS,11,2018-12-18
+4,26,86,30,37,1,27,40,23,15,240,6,17,8,Team.DALLAS_MAVERICKS,8,2018-12-18
+5,33,90,18,29,3,35,50,14,12,240,12,28,7,Team.DENVER_NUGGETS,15,2018-12-18
+6,19,91,13,31,5,39,38,10,6,240,12,16,7,Team.CLEVELAND_CAVALIERS,9,2018-12-18
+7,21,93,21,22,9,38,37,13,4,240,14,12,7,Team.INDIANA_PACERS,9,2018-12-18

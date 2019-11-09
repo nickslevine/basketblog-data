@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,17,76,34,20,2,38,32,20,10,240,7,16,8,Team.DETROIT_PISTONS,10,2016-04-02
+1,21,88,15,25,10,36,34,13,9,240,11,25,6,Team.CHICAGO_BULLS,11,2016-04-02
+2,27,88,31,21,5,37,41,25,8,240,11,20,4,Team.SACRAMENTO_KINGS,7,2016-04-02
+3,27,92,24,29,10,35,40,17,9,240,15,22,3,Team.DENVER_NUGGETS,10,2016-04-02
+4,27,84,23,23,4,42,44,19,8,240,6,24,9,Team.INDIANA_PACERS,13,2016-04-02
+5,23,83,26,37,1,30,34,18,16,240,8,22,3,Team.PHILADELPHIA_76ERS,16,2016-04-02
+6,16,88,27,19,4,30,34,19,6,240,12,17,9,Team.MIAMI_HEAT,13,2016-04-02
+7,21,79,23,15,4,37,41,18,10,240,8,19,9,Team.PORTLAND_TRAIL_BLAZERS,15,2016-04-02
+8,18,80,10,18,3,26,40,9,6,240,6,21,8,Team.TORONTO_RAPTORS,13,2016-04-02
+9,28,77,30,20,5,32,35,27,5,240,15,14,11,Team.SAN_ANTONIO_SPURS,14,2016-04-02

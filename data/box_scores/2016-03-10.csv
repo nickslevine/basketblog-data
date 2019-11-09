@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,19,89,33,28,4,36,33,26,6,240,16,18,4,Team.PHOENIX_SUNS,14,2016-03-10
+1,27,91,19,28,11,38,44,15,13,240,11,30,9,Team.DENVER_NUGGETS,11,2016-03-10
+2,22,85,20,35,6,29,45,14,16,240,9,20,4,Team.CLEVELAND_CAVALIERS,8,2016-03-10
+3,18,80,21,22,4,30,42,17,7,240,4,22,8,Team.LOS_ANGELES_LAKERS,10,2016-03-10
+4,23,86,13,22,5,39,39,12,11,240,11,18,5,Team.CHICAGO_BULLS,21,2016-03-10
+5,29,93,19,17,4,31,44,15,6,240,9,12,14,Team.SAN_ANTONIO_SPURS,8,2016-03-10
+6,17,82,27,23,5,27,35,19,7,240,6,24,8,Team.ATLANTA_HAWKS,11,2016-03-10
+7,16,82,29,24,3,37,38,21,7,240,11,24,6,Team.TORONTO_RAPTORS,13,2016-03-10

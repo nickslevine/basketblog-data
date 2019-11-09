@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,88,14,30,6,35,34,13,6,240,6,18,10,Team.GOLDEN_STATE_WARRIORS,15,2017-03-02
+1,19,82,21,19,5,42,36,17,5,240,7,15,9,Team.CHICAGO_BULLS,15,2017-03-02
+2,19,89,28,34,1,25,35,23,10,240,9,20,14,Team.CHARLOTTE_HORNETS,16,2017-03-02
+3,30,77,25,19,7,38,46,21,7,240,4,23,8,Team.PHOENIX_SUNS,18,2017-03-02
+4,11,86,32,29,7,28,34,30,11,240,12,25,9,Team.OKLAHOMA_CITY_THUNDER,12,2017-03-02
+5,19,79,35,25,7,36,39,26,10,240,9,19,9,Team.PORTLAND_TRAIL_BLAZERS,14,2017-03-02

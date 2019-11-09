@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,20,81,23,28,2,29,33,16,11,240,7,17,5,Team.SAN_ANTONIO_SPURS,13,2018-03-12
+1,24,80,23,44,4,41,39,18,13,240,9,24,6,Team.HOUSTON_ROCKETS,15,2018-03-12
+2,33,81,22,25,5,36,47,15,12,240,11,22,6,Team.MILWAUKEE_BUCKS,18,2018-03-12
+3,27,89,19,27,5,21,42,10,9,240,10,23,6,Team.MEMPHIS_GRIZZLIES,9,2018-03-12
+4,21,93,16,33,6,36,38,13,12,240,13,22,8,Team.SACRAMENTO_KINGS,11,2018-03-12
+5,21,84,18,36,6,38,38,14,16,240,5,15,5,Team.OKLAHOMA_CITY_THUNDER,10,2018-03-12
+6,24,91,16,31,4,36,39,11,10,240,10,24,6,Team.MIAMI_HEAT,11,2018-03-12
+7,23,83,30,36,6,41,38,25,14,240,9,15,5,Team.PORTLAND_TRAIL_BLAZERS,12,2018-03-12

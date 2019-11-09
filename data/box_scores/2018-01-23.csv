@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,28,83,19,22,0,32,43,17,9,240,6,20,4,Team.NEW_YORK_KNICKS,13,2018-01-23
+1,40,83,20,30,3,33,46,18,13,240,3,16,6,Team.GOLDEN_STATE_WARRIORS,12,2018-01-23
+2,22,90,10,44,5,35,42,8,15,240,7,25,3,Team.BOSTON_CELTICS,11,2018-01-23
+3,18,91,36,26,2,37,40,21,7,240,14,16,6,Team.LOS_ANGELES_LAKERS,10,2018-01-23
+4,27,79,25,38,5,37,37,18,16,240,8,25,1,Team.BROOKLYN_NETS,12,2018-01-23
+5,12,94,32,25,4,34,40,22,7,240,16,18,7,Team.OKLAHOMA_CITY_THUNDER,4,2018-01-23
+6,24,87,13,26,11,33,43,11,8,240,11,15,9,Team.SACRAMENTO_KINGS,14,2018-01-23
+7,23,83,19,31,4,29,36,16,11,240,11,17,9,Team.ORLANDO_MAGIC,17,2018-01-23
+8,19,72,31,21,3,35,35,26,6,240,6,14,6,Team.CLEVELAND_CAVALIERS,18,2018-01-23
+9,23,94,16,28,4,32,47,12,8,240,13,19,11,Team.SAN_ANTONIO_SPURS,9,2018-01-23

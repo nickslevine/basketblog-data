@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,29,85,26,34,1,33,46,24,13,240,9,23,3,Team.LOS_ANGELES_CLIPPERS,10,2019-04-24
+1,31,96,22,39,3,24,43,20,15,240,15,23,7,Team.GOLDEN_STATE_WARRIORS,8,2019-04-24
+2,26,94,19,38,4,33,35,14,9,240,14,22,8,Team.UTAH_JAZZ,15,2019-04-24
+3,17,81,22,37,12,37,36,15,13,240,9,21,12,Team.HOUSTON_ROCKETS,17,2019-04-24

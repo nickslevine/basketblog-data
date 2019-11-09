@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,80,16,18,6,31,40,9,10,240,11,15,7,Team.CHICAGO_BULLS,10,2015-05-04
+1,17,81,19,26,6,28,34,17,7,240,11,16,6,Team.CLEVELAND_CAVALIERS,9,2015-05-04
+2,31,84,30,31,6,33,41,22,13,240,9,22,14,Team.LOS_ANGELES_CLIPPERS,21,2015-05-04
+3,24,84,24,33,8,29,38,14,11,240,6,25,14,Team.HOUSTON_ROCKETS,23,2015-05-04

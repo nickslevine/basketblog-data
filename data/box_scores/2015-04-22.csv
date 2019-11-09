@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,78,18,26,5,41,35,13,8,240,8,21,6,Team.BROOKLYN_NETS,16,2015-04-22
+1,27,90,19,31,7,33,35,14,12,240,8,18,11,Team.ATLANTA_HAWKS,8,2015-04-22
+2,26,91,26,25,6,38,42,19,8,265,10,31,8,Team.SAN_ANTONIO_SPURS,9,2015-04-22
+3,23,92,37,29,6,39,39,20,9,265,16,20,5,Team.LOS_ANGELES_CLIPPERS,11,2015-04-22
+4,11,77,18,20,8,31,30,16,6,240,11,13,4,Team.PORTLAND_TRAIL_BLAZERS,13,2015-04-22
+5,19,89,14,16,7,29,38,13,8,240,12,19,9,Team.MEMPHIS_GRIZZLIES,5,2015-04-22

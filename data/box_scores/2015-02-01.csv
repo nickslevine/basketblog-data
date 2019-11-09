@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,18,77,21,21,9,36,32,15,4,240,10,18,7,Team.MIAMI_HEAT,16,2015-02-01
+1,24,81,18,19,3,32,30,11,4,240,8,19,7,Team.BOSTON_CELTICS,13,2015-02-01
+2,15,76,23,16,3,36,27,19,7,240,10,15,7,Team.LOS_ANGELES_LAKERS,14,2015-02-01
+3,18,84,13,22,3,30,37,8,10,240,11,21,7,Team.NEW_YORK_KNICKS,10,2015-02-01

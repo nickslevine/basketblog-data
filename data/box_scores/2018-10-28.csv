@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,28,89,24,33,7,35,44,21,11,240,12,16,11,Team.GOLDEN_STATE_WARRIORS,12,2018-10-28
+1,28,87,15,42,3,32,42,10,20,240,5,20,5,Team.BROOKLYN_NETS,15,2018-10-28
+2,25,80,22,25,6,35,42,19,10,240,8,27,8,Team.UTAH_JAZZ,18,2018-10-28
+3,24,91,25,28,3,31,38,19,9,240,12,19,6,Team.DALLAS_MAVERICKS,13,2018-10-28
+4,18,97,28,27,3,31,38,23,5,240,14,16,7,Team.WASHINGTON_WIZARDS,14,2018-10-28
+5,35,103,13,29,9,43,56,8,16,240,14,25,7,Team.LOS_ANGELES_CLIPPERS,14,2018-10-28
+6,21,86,27,27,3,34,38,26,8,240,10,32,10,Team.PHOENIX_SUNS,22,2018-10-28
+7,22,85,35,24,3,34,43,24,7,240,9,24,16,Team.OKLAHOMA_CITY_THUNDER,15,2018-10-28

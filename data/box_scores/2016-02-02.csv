@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,26,85,27,17,3,38,38,20,6,240,13,18,5,Team.MIAMI_HEAT,17,2016-02-02
+1,30,84,16,35,6,31,44,11,16,240,3,19,9,Team.HOUSTON_ROCKETS,11,2016-02-02
+2,36,80,25,17,4,25,46,19,4,240,8,21,6,Team.MINNESOTA_TIMBERWOLVES,15,2016-02-02
+3,23,80,35,26,2,24,40,27,12,240,7,24,9,Team.LOS_ANGELES_LAKERS,9,2016-02-02
+4,20,90,17,19,2,33,40,14,3,240,12,24,9,Team.BOSTON_CELTICS,10,2016-02-02
+5,13,82,28,20,4,34,31,21,6,240,16,16,3,Team.NEW_YORK_KNICKS,16,2016-02-02
+6,15,74,32,27,3,27,35,25,9,240,8,22,9,Team.TORONTO_RAPTORS,12,2016-02-02
+7,23,79,15,31,4,30,37,11,12,240,8,26,5,Team.PHOENIX_SUNS,16,2016-02-02
+8,23,86,24,14,4,31,38,14,5,240,12,18,7,Team.MILWAUKEE_BUCKS,13,2016-02-02
+9,25,85,25,31,7,39,39,18,11,240,10,23,6,Team.PORTLAND_TRAIL_BLAZERS,15,2016-02-02

@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,27,84,21,23,6,36,39,14,7,240,6,19,3,Team.NEW_ORLEANS_PELICANS,11,2017-01-14
+1,22,101,23,20,6,42,43,13,8,240,21,20,10,Team.CHICAGO_BULLS,10,2017-01-14
+2,21,80,27,21,2,34,36,15,10,240,6,20,3,Team.LOS_ANGELES_LAKERS,14,2017-01-14
+3,28,92,8,28,6,35,48,7,10,240,7,24,6,Team.LOS_ANGELES_CLIPPERS,7,2017-01-14
+4,15,71,34,20,1,27,36,24,9,240,6,18,8,Team.SAN_ANTONIO_SPURS,16,2017-01-14
+5,18,85,24,21,0,30,39,22,8,240,15,30,10,Team.PHOENIX_SUNS,15,2017-01-14
+6,23,82,27,34,2,33,38,19,12,240,7,28,10,Team.ORLANDO_MAGIC,14,2017-01-14
+7,28,83,36,26,2,35,41,25,7,240,9,20,6,Team.UTAH_JAZZ,13,2017-01-14
+8,20,87,21,31,2,34,36,11,10,240,15,19,6,Team.PHILADELPHIA_76ERS,16,2017-01-14
+9,18,91,18,17,2,38,44,13,8,240,12,18,9,Team.WASHINGTON_WIZARDS,11,2017-01-14

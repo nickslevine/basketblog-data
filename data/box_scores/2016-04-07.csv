@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,16,84,20,21,4,38,32,15,8,240,8,16,10,Team.TORONTO_RAPTORS,11,2016-04-07
+1,23,76,21,32,12,36,33,17,12,240,5,19,4,Team.ATLANTA_HAWKS,13,2016-04-07
+2,28,80,23,16,2,27,39,16,7,240,5,11,10,Team.SAN_ANTONIO_SPURS,12,2016-04-07
+3,33,83,11,25,2,36,45,10,12,240,7,22,8,Team.GOLDEN_STATE_WARRIORS,15,2016-04-07
+4,31,94,29,31,2,27,44,24,12,240,20,24,11,Team.PHOENIX_SUNS,19,2016-04-07
+5,26,74,28,33,12,21,42,17,14,240,5,24,13,Team.HOUSTON_ROCKETS,18,2016-04-07
+6,18,78,28,14,7,29,35,25,3,240,12,12,6,Team.CHICAGO_BULLS,12,2016-04-07
+7,16,92,17,14,2,32,44,14,4,240,15,20,8,Team.MIAMI_HEAT,10,2016-04-07
+8,25,80,31,21,4,30,36,22,11,240,13,17,11,Team.MINNESOTA_TIMBERWOLVES,15,2016-04-07
+9,19,85,21,17,5,30,36,19,6,240,17,23,11,Team.SACRAMENTO_KINGS,19,2016-04-07

@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,37,85,20,40,6,26,47,16,24,240,8,23,9,Team.DENVER_NUGGETS,18,2018-02-15
+1,27,92,22,26,5,29,49,16,9,240,11,20,9,Team.MILWAUKEE_BUCKS,16,2018-02-15
+2,19,94,26,31,4,35,43,18,7,240,11,26,6,Team.LOS_ANGELES_LAKERS,13,2018-02-15
+3,23,90,31,24,10,35,42,29,6,240,11,22,5,Team.MINNESOTA_TIMBERWOLVES,10,2018-02-15

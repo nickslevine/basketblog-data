@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,86,24,32,4,32,36,23,10,240,7,21,12,Team.TORONTO_RAPTORS,9,2019-06-07
+1,26,78,21,27,6,34,35,14,8,240,8,23,6,Team.GOLDEN_STATE_WARRIORS,17,2019-06-07

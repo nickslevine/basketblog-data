@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,79,19,17,7,26,30,16,4,240,9,18,7,Team.NEW_YORK_KNICKS,13,2015-03-28
+1,28,84,22,17,5,39,43,19,6,240,12,16,8,Team.CHICAGO_BULLS,12,2015-03-28
+2,32,86,14,30,4,29,37,11,15,240,7,17,6,Team.ATLANTA_HAWKS,10,2015-03-28
+3,28,80,22,26,6,35,42,19,12,240,7,16,4,Team.CHARLOTTE_HORNETS,8,2015-03-28
+4,27,82,14,25,8,38,42,12,12,240,7,23,7,Team.GOLDEN_STATE_WARRIORS,22,2015-03-28
+5,24,87,32,15,5,27,33,27,2,240,15,20,14,Team.MILWAUKEE_BUCKS,15,2015-03-28
+6,24,92,22,24,1,28,43,19,9,240,11,20,12,Team.DENVER_NUGGETS,11,2015-03-28
+7,29,85,18,18,5,37,48,16,8,240,8,18,8,Team.PORTLAND_TRAIL_BLAZERS,16,2015-03-28
+8,14,73,32,16,4,38,31,21,6,240,10,29,5,Team.OKLAHOMA_CITY_THUNDER,23,2015-03-28
+9,12,84,35,29,8,26,32,24,6,240,16,29,14,Team.UTAH_JAZZ,11,2015-03-28

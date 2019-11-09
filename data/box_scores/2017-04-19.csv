@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,17,90,19,34,7,36,30,14,7,240,11,19,9,Team.PORTLAND_TRAIL_BLAZERS,18,2017-04-19
+1,31,91,24,32,11,43,40,20,10,240,11,17,8,Team.GOLDEN_STATE_WARRIORS,17,2017-04-19
+2,20,97,28,30,11,31,40,24,7,240,17,24,9,Team.OKLAHOMA_CITY_THUNDER,7,2017-04-19
+3,20,78,37,29,8,32,38,28,11,240,5,21,5,Team.HOUSTON_ROCKETS,13,2017-04-19
+4,17,79,38,20,6,31,32,33,4,240,10,26,6,Team.ATLANTA_HAWKS,18,2017-04-19
+5,22,86,33,22,10,32,39,24,7,240,11,29,10,Team.WASHINGTON_WIZARDS,11,2017-04-19

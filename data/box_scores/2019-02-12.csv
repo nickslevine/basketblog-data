@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,25,95,25,40,6,34,41,17,14,240,10,24,10,Team.LOS_ANGELES_LAKERS,15,2019-02-12
+1,29,92,26,42,6,41,40,21,16,240,6,24,8,Team.ATLANTA_HAWKS,20,2019-02-12
+2,23,87,21,26,4,42,41,16,10,240,7,21,3,Team.UTAH_JAZZ,16,2019-02-12
+3,29,89,21,41,7,35,44,14,13,240,5,20,12,Team.GOLDEN_STATE_WARRIORS,6,2019-02-12
+4,23,86,29,21,5,33,36,23,13,240,10,14,6,Team.SAN_ANTONIO_SPURS,7,2019-02-12
+5,25,89,16,24,6,40,44,11,8,240,8,23,5,Team.MEMPHIS_GRIZZLIES,12,2019-02-12
+6,32,95,22,32,8,46,42,21,13,240,12,14,9,Team.ORLANDO_MAGIC,10,2019-02-12
+7,21,94,8,29,8,34,36,6,10,240,8,16,5,Team.NEW_ORLEANS_PELICANS,14,2019-02-12
+8,24,88,21,29,3,33,41,17,13,240,8,23,9,Team.BOSTON_CELTICS,5,2019-02-12
+9,21,80,31,27,3,37,39,22,9,240,10,20,4,Team.PHILADELPHIA_76ERS,14,2019-02-12

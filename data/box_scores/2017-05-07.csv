@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,89,18,23,6,32,44,9,7,240,11,13,8,Team.SAN_ANTONIO_SPURS,14,2017-05-07
+1,28,95,10,43,3,34,50,6,19,240,7,17,7,Team.HOUSTON_ROCKETS,9,2017-05-07
+2,24,82,16,41,5,32,39,15,16,240,5,11,8,Team.CLEVELAND_CAVALIERS,10,2017-05-07
+3,28,85,15,29,3,29,40,12,10,240,8,18,7,Team.TORONTO_RAPTORS,11,2017-05-07
+4,28,79,24,31,6,22,35,18,14,240,9,25,13,Team.BOSTON_CELTICS,18,2017-05-07
+5,29,84,27,21,3,33,44,24,9,240,12,22,13,Team.WASHINGTON_WIZARDS,19,2017-05-07

@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,20,84,20,26,4,37,37,13,10,240,12,19,4,Team.CLEVELAND_CAVALIERS,12,2015-05-20
+1,19,77,23,23,3,30,34,17,4,240,7,21,6,Team.ATLANTA_HAWKS,12,2015-05-20

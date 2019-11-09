@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,19,79,24,41,3,31,33,21,12,240,8,20,10,Team.HOUSTON_ROCKETS,15,2019-05-08
+1,28,85,18,37,1,30,39,13,13,240,12,19,6,Team.GOLDEN_STATE_WARRIORS,15,2019-05-08
+2,19,93,34,39,1,38,29,26,7,240,12,18,7,Team.BOSTON_CELTICS,14,2019-05-08
+3,27,94,22,47,7,46,42,17,15,240,10,23,8,Team.MILWAUKEE_BUCKS,14,2019-05-08

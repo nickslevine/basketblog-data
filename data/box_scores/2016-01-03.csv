@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,78,32,23,3,34,40,22,10,240,7,34,4,Team.PORTLAND_TRAIL_BLAZERS,10,2016-01-03
+1,20,80,48,22,6,26,34,31,7,240,15,25,7,Team.DENVER_NUGGETS,8,2016-01-03
+2,16,89,9,27,4,36,32,7,6,240,9,20,8,Team.PHOENIX_SUNS,14,2016-01-03
+3,26,84,17,22,7,45,38,13,8,240,9,16,8,Team.LOS_ANGELES_LAKERS,15,2016-01-03
+4,26,84,20,26,5,24,37,15,8,240,8,14,11,Team.ATLANTA_HAWKS,15,2016-01-03
+5,27,88,14,26,7,34,44,12,11,240,12,19,8,Team.NEW_YORK_KNICKS,16,2016-01-03
+6,23,82,25,21,8,34,42,22,9,240,8,18,4,Team.CHICAGO_BULLS,11,2016-01-03
+7,21,92,19,31,8,24,42,16,13,240,13,19,6,Team.TORONTO_RAPTORS,8,2016-01-03
+8,27,86,12,23,11,45,39,10,9,240,9,15,8,Team.MIAMI_HEAT,12,2016-01-03
+9,19,91,13,30,2,34,31,9,4,240,11,12,5,Team.WASHINGTON_WIZARDS,10,2016-01-03

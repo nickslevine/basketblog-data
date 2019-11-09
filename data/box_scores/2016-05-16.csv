@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,89,32,17,6,42,39,22,8,240,10,15,12,Team.OKLAHOMA_CITY_THUNDER,11,2016-05-16
+1,26,91,17,30,4,36,40,11,11,240,8,22,8,Team.GOLDEN_STATE_WARRIORS,14,2016-05-16

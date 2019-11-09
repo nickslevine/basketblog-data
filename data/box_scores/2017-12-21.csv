@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,34,85,8,31,1,30,47,6,12,240,5,19,8,Team.CHICAGO_BULLS,12,2017-12-21
+1,25,82,22,29,3,28,42,19,12,240,7,14,10,Team.CLEVELAND_CAVALIERS,12,2017-12-21
+2,17,86,19,38,1,26,33,14,13,240,9,20,11,Team.BOSTON_CELTICS,10,2017-12-21
+3,13,79,26,14,3,38,36,22,8,240,11,20,8,Team.NEW_YORK_KNICKS,17,2017-12-21
+4,18,85,35,35,6,26,35,32,12,240,19,19,14,Team.TORONTO_RAPTORS,21,2017-12-21
+5,27,86,14,29,6,27,45,10,9,240,13,27,14,Team.PHILADELPHIA_76ERS,23,2017-12-21
+6,15,90,16,26,7,35,39,12,5,240,15,22,5,Team.MEMPHIS_GRIZZLIES,9,2017-12-21
+7,21,81,27,26,1,32,33,21,10,240,12,17,4,Team.PHOENIX_SUNS,10,2017-12-21
+8,14,78,16,21,3,33,34,11,10,240,5,21,7,Team.SAN_ANTONIO_SPURS,14,2017-12-21
+9,18,74,24,26,4,36,34,20,12,240,5,18,7,Team.UTAH_JAZZ,12,2017-12-21

@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,18,98,23,24,3,37,38,12,7,240,17,25,6,Team.OKLAHOMA_CITY_THUNDER,12,2017-12-07
+1,24,80,30,37,7,42,35,19,11,240,7,21,3,Team.BROOKLYN_NETS,13,2017-12-07
+2,22,96,24,28,7,29,42,12,11,240,15,23,13,Team.LOS_ANGELES_LAKERS,11,2017-12-07
+3,29,81,21,26,13,37,39,16,10,240,7,26,3,Team.PHILADELPHIA_76ERS,18,2017-12-07
+4,25,81,25,21,4,30,41,19,8,240,8,23,6,Team.WASHINGTON_WIZARDS,10,2017-12-07
+5,22,78,28,23,5,32,36,20,7,240,10,21,5,Team.PHOENIX_SUNS,13,2017-12-07
+6,22,81,24,42,5,38,38,18,18,240,8,25,10,Team.HOUSTON_ROCKETS,17,2017-12-07
+7,17,77,27,30,5,28,34,22,11,240,4,21,10,Team.UTAH_JAZZ,13,2017-12-07

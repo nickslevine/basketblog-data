@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,34,84,23,28,2,33,43,19,10,240,5,32,6,Team.SAN_ANTONIO_SPURS,16,2015-02-19
+1,26,77,52,19,4,33,42,27,8,240,10,22,10,Team.LOS_ANGELES_CLIPPERS,12,2015-02-19
+2,16,91,17,27,3,25,33,14,9,240,14,20,14,Team.DALLAS_MAVERICKS,17,2015-02-19
+3,20,91,26,22,0,41,38,21,7,240,21,20,8,Team.OKLAHOMA_CITY_THUNDER,22,2015-02-19

@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,80,17,29,3,31,35,13,9,240,9,22,8,Team.MEMPHIS_GRIZZLIES,11,2019-02-01
+1,15,73,28,29,7,34,32,24,12,240,6,17,6,Team.CHARLOTTE_HORNETS,12,2019-02-01
+2,23,85,21,44,3,19,45,16,16,240,11,24,6,Team.HOUSTON_ROCKETS,10,2019-02-01
+3,37,82,23,31,4,26,51,20,14,240,10,14,7,Team.DENVER_NUGGETS,8,2019-02-01
+4,23,91,19,30,4,37,44,14,16,240,13,20,10,Team.OKLAHOMA_CITY_THUNDER,15,2019-02-01
+5,28,92,14,36,2,36,41,9,11,240,11,17,7,Team.MIAMI_HEAT,17,2019-02-01
+6,25,100,10,37,7,32,46,8,13,240,11,18,11,Team.BOSTON_CELTICS,7,2019-02-01
+7,21,86,12,31,2,40,39,12,9,240,8,15,2,Team.NEW_YORK_KNICKS,17,2019-02-01
+8,23,98,24,46,4,32,39,20,14,240,8,27,11,Team.ATLANTA_HAWKS,11,2019-02-01
+9,31,87,30,35,6,40,46,24,12,240,11,22,4,Team.UTAH_JAZZ,15,2019-02-01

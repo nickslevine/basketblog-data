@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,21,100,21,23,5,27,37,18,8,240,22,17,11,Team.SAN_ANTONIO_SPURS,18,2017-05-16
+1,39,89,19,37,5,34,50,18,18,240,6,19,16,Team.GOLDEN_STATE_WARRIORS,16,2017-05-16

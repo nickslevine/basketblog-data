@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,89,9,38,2,34,39,7,10,240,11,20,3,Team.CLEVELAND_CAVALIERS,14,2016-03-24
+1,28,89,19,22,5,36,41,14,8,240,10,16,10,Team.BROOKLYN_NETS,9,2016-03-24
+2,15,85,14,16,0,38,35,10,4,240,9,16,7,Team.NEW_ORLEANS_PELICANS,16,2016-03-24
+3,26,79,15,20,6,41,36,13,7,240,3,12,10,Team.INDIANA_PACERS,13,2016-03-24
+4,18,80,32,24,5,32,32,24,6,240,9,25,10,Team.PORTLAND_TRAIL_BLAZERS,15,2016-03-24
+5,21,82,28,19,5,36,37,18,4,240,11,29,9,Team.LOS_ANGELES_CLIPPERS,16,2016-03-24
+6,15,89,18,25,2,27,37,14,6,240,7,14,9,Team.CHICAGO_BULLS,8,2016-03-24
+7,19,76,16,30,9,40,39,15,13,240,5,12,4,Team.NEW_YORK_KNICKS,17,2016-03-24
+8,18,73,23,22,3,27,35,16,5,240,9,22,8,Team.UTAH_JAZZ,18,2016-03-24
+9,27,83,22,22,4,29,45,14,9,240,10,16,13,Team.OKLAHOMA_CITY_THUNDER,14,2016-03-24

@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,21,68,33,10,11,37,34,27,3,240,9,22,4,Team.SACRAMENTO_KINGS,19,2014-11-02
+1,23,88,21,31,7,24,33,17,9,240,11,25,10,Team.LOS_ANGELES_CLIPPERS,8,2014-11-02
+2,11,79,39,16,5,19,37,24,4,240,9,28,8,Team.TORONTO_RAPTORS,10,2014-11-02
+3,22,70,38,24,6,32,35,28,9,240,11,29,6,Team.MIAMI_HEAT,16,2014-11-02
+4,20,70,29,15,2,30,33,21,6,240,8,16,7,Team.CHARLOTTE_HORNETS,12,2014-11-02
+5,23,78,17,16,0,27,39,10,8,240,8,26,5,Team.NEW_YORK_KNICKS,12,2014-11-02
+6,22,81,21,19,7,34,36,17,6,240,7,16,11,Team.GOLDEN_STATE_WARRIORS,17,2014-11-02
+7,20,92,14,27,2,39,37,9,7,240,17,19,9,Team.PORTLAND_TRAIL_BLAZERS,19,2014-11-02

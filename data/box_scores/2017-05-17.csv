@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,21,81,35,31,2,32,39,28,11,240,12,17,9,Team.CLEVELAND_CAVALIERS,8,2017-05-17
+1,33,88,18,38,1,27,41,10,12,240,13,26,4,Team.BOSTON_CELTICS,14,2017-05-17

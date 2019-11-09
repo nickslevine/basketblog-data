@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,21,91,20,35,5,33,36,16,12,240,14,23,4,Team.NEW_YORK_KNICKS,16,2018-12-06
+1,32,92,20,38,6,39,49,17,13,240,7,24,8,Team.BOSTON_CELTICS,9,2018-12-06
+2,20,91,14,27,2,30,35,11,5,240,11,21,11,Team.PHOENIX_SUNS,16,2018-12-06
+3,24,85,27,27,6,43,41,17,9,240,13,19,10,Team.PORTLAND_TRAIL_BLAZERS,17,2018-12-06
+4,13,88,17,36,5,29,34,15,8,240,14,26,5,Team.HOUSTON_ROCKETS,23,2018-12-06
+5,26,89,27,32,4,35,45,20,8,240,12,24,16,Team.UTAH_JAZZ,12,2018-12-06

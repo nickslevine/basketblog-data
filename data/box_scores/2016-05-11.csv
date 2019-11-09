@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,20,92,39,36,4,34,38,29,16,240,13,23,9,Team.PORTLAND_TRAIL_BLAZERS,10,2016-05-11
+1,28,84,29,32,4,35,43,25,14,240,9,25,5,Team.GOLDEN_STATE_WARRIORS,16,2016-05-11
+2,12,77,28,21,2,31,31,23,6,240,13,22,4,Team.MIAMI_HEAT,13,2016-05-11
+3,16,81,26,17,7,28,35,22,7,240,11,20,10,Team.TORONTO_RAPTORS,9,2016-05-11

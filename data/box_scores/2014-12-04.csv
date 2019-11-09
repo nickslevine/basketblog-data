@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,89,13,15,4,37,37,8,3,240,10,15,8,Team.NEW_ORLEANS_PELICANS,17,2014-12-04
+1,31,100,17,22,8,38,47,8,10,240,18,8,11,Team.GOLDEN_STATE_WARRIORS,9,2014-12-04
+2,19,70,26,18,1,27,32,21,5,240,6,16,8,Team.CLEVELAND_CAVALIERS,17,2014-12-04
+3,26,88,6,26,3,30,37,5,8,240,17,25,11,Team.NEW_YORK_KNICKS,21,2014-12-04
+4,19,91,8,18,5,40,36,5,5,240,11,19,5,Team.INDIANA_PACERS,17,2014-12-04
+5,20,83,23,21,5,43,33,18,4,240,5,16,9,Team.PORTLAND_TRAIL_BLAZERS,12,2014-12-04

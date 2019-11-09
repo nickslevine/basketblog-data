@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,21,74,18,27,3,28,35,17,9,240,4,20,4,Team.MILWAUKEE_BUCKS,15,2018-04-28
+1,28,84,21,26,4,31,45,13,9,240,11,23,9,Team.BOSTON_CELTICS,14,2018-04-28
+2,24,96,11,25,3,35,42,9,8,240,7,24,7,Team.NEW_ORLEANS_PELICANS,12,2018-04-28
+3,33,91,32,27,10,44,44,24,11,240,13,16,8,Team.GOLDEN_STATE_WARRIORS,13,2018-04-28

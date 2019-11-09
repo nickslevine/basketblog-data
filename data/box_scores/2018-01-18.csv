@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,18,73,17,17,5,33,34,15,6,240,8,20,10,Team.PHILADELPHIA_76ERS,22,2018-01-18
+1,13,74,17,29,5,28,30,13,7,240,3,20,7,Team.BOSTON_CELTICS,19,2018-01-18
+2,25,88,21,22,6,33,41,16,5,240,9,22,12,Team.ORLANDO_MAGIC,14,2018-01-18
+3,22,85,27,34,4,32,38,18,10,240,14,21,8,Team.CLEVELAND_CAVALIERS,20,2018-01-18
+4,24,81,21,24,8,32,38,14,8,240,8,16,8,Team.MINNESOTA_TIMBERWOLVES,11,2018-01-18
+5,24,88,17,39,5,34,42,15,17,240,11,15,11,Team.HOUSTON_ROCKETS,9,2018-01-18
+6,17,91,13,26,4,36,36,7,7,240,10,16,4,Team.INDIANA_PACERS,8,2018-01-18
+7,17,94,16,32,7,43,37,16,10,240,14,11,6,Team.PORTLAND_TRAIL_BLAZERS,11,2018-01-18

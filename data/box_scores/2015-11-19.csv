@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,73,26,8,2,16,38,21,3,240,6,29,8,Team.MILWAUKEE_BUCKS,11,2015-11-19
+1,29,71,30,24,2,30,40,24,11,240,13,24,3,Team.CLEVELAND_CAVALIERS,17,2015-11-19
+2,31,73,36,30,4,36,38,31,17,240,8,20,4,Team.GOLDEN_STATE_WARRIORS,19,2015-11-19
+3,21,88,24,29,2,26,44,16,13,240,9,25,11,Team.LOS_ANGELES_CLIPPERS,10,2015-11-19
+4,25,84,20,23,3,33,43,11,12,240,9,27,3,Team.SACRAMENTO_KINGS,18,2015-11-19
+5,25,89,33,24,7,29,42,25,7,240,12,15,11,Team.MIAMI_HEAT,7,2015-11-19

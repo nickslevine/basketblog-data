@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,93,19,36,3,36,42,11,13,240,6,28,8,Team.DENVER_NUGGETS,15,2015-03-19
+1,27,83,40,30,4,39,37,32,12,240,10,19,8,Team.HOUSTON_ROCKETS,16,2015-03-19
+2,19,62,31,25,8,34,25,21,9,240,2,17,11,Team.UTAH_JAZZ,14,2015-03-19
+3,20,77,17,11,3,34,31,8,3,240,9,22,9,Team.LOS_ANGELES_LAKERS,14,2015-03-19
+4,12,83,30,12,8,32,34,25,2,265,11,12,10,Team.MINNESOTA_TIMBERWOLVES,16,2015-03-19
+5,22,97,10,20,5,37,40,8,4,265,12,18,9,Team.NEW_YORK_KNICKS,15,2015-03-19
+6,19,83,10,18,4,36,31,5,5,240,9,18,4,Team.NEW_ORLEANS_PELICANS,9,2015-03-19
+7,11,83,21,22,8,43,29,14,2,240,14,15,5,Team.PHOENIX_SUNS,12,2015-03-19

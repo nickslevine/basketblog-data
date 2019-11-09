@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,88,36,23,4,26,41,30,8,240,15,25,6,Team.PORTLAND_TRAIL_BLAZERS,14,2016-12-15
+1,27,84,35,31,4,31,43,31,15,240,5,28,10,Team.DENVER_NUGGETS,15,2016-12-15
+2,19,93,19,21,5,35,38,9,5,240,14,10,10,Team.NEW_YORK_KNICKS,11,2016-12-15
+3,41,96,8,32,10,42,45,4,9,240,15,17,7,Team.GOLDEN_STATE_WARRIORS,17,2016-12-15
+4,23,74,29,20,3,35,35,22,5,240,6,16,5,Team.CHICAGO_BULLS,16,2016-12-15
+5,32,95,13,20,5,29,45,7,11,240,13,20,8,Team.MILWAUKEE_BUCKS,8,2016-12-15
+6,23,87,24,21,4,39,36,20,3,240,7,21,6,Team.INDIANA_PACERS,12,2016-12-15
+7,23,85,28,27,8,44,36,20,10,240,11,16,7,Team.NEW_ORLEANS_PELICANS,16,2016-12-15
+8,19,74,26,16,2,41,39,24,5,240,9,20,6,Team.SAN_ANTONIO_SPURS,20,2016-12-15
+9,15,85,18,27,3,24,34,14,10,240,11,25,9,Team.PHOENIX_SUNS,13,2016-12-15

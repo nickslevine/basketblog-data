@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,18,87,23,26,5,41,34,14,5,240,6,20,8,Team.PHILADELPHIA_76ERS,16,2018-10-16
+1,21,97,14,37,5,43,42,10,11,240,12,20,7,Team.BOSTON_CELTICS,14,2018-10-16
+2,21,91,37,37,6,29,33,24,10,240,16,21,12,Team.OKLAHOMA_CITY_THUNDER,14,2018-10-16
+3,28,95,18,26,7,41,42,17,7,240,17,29,7,Team.GOLDEN_STATE_WARRIORS,21,2018-10-16

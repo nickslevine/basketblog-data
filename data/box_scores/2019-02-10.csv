@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,29,91,28,37,9,38,43,25,13,240,11,21,4,Team.ORLANDO_MAGIC,8,2019-02-10
+1,27,80,25,32,6,28,37,21,13,240,5,21,5,Team.ATLANTA_HAWKS,11,2019-02-10
+2,24,86,14,29,4,36,42,8,9,240,12,26,7,Team.PORTLAND_TRAIL_BLAZERS,19,2019-02-10
+3,20,87,23,37,3,28,36,18,12,240,11,20,6,Team.DALLAS_MAVERICKS,15,2019-02-10
+4,32,105,8,43,4,31,48,4,18,240,21,22,6,Team.MIAMI_HEAT,16,2019-02-10
+5,28,82,26,36,5,29,44,19,13,240,7,16,8,Team.GOLDEN_STATE_WARRIORS,12,2019-02-10
+6,31,93,19,27,4,34,48,14,10,240,9,21,3,Team.LOS_ANGELES_LAKERS,16,2019-02-10
+7,33,97,22,24,3,35,56,19,12,240,7,17,10,Team.PHILADELPHIA_76ERS,7,2019-02-10
+8,22,91,30,27,4,39,38,22,6,240,15,31,5,Team.PHOENIX_SUNS,17,2019-02-10
+9,26,84,44,31,11,38,38,32,9,240,11,21,12,Team.SACRAMENTO_KINGS,12,2019-02-10

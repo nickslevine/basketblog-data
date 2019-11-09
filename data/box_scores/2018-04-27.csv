@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,16,79,16,38,2,26,33,9,12,240,7,17,4,Team.CLEVELAND_CAVALIERS,14,2018-04-27
+1,27,87,14,30,1,36,49,8,15,240,9,18,9,Team.INDIANA_PACERS,7,2018-04-27
+2,20,93,13,34,4,34,37,7,10,240,15,21,6,Team.OKLAHOMA_CITY_THUNDER,13,2018-04-27
+3,16,82,23,26,5,29,37,12,10,240,11,17,9,Team.UTAH_JAZZ,13,2018-04-27
+4,18,90,19,25,6,31,40,15,7,240,16,20,8,Team.TORONTO_RAPTORS,6,2018-04-27
+5,12,79,21,22,5,31,32,20,8,240,11,19,3,Team.WASHINGTON_WIZARDS,14,2018-04-27

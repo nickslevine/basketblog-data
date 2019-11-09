@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,16,79,27,18,8,30,43,20,4,240,2,20,8,Team.LOS_ANGELES_LAKERS,11,2017-11-02
+1,22,86,27,22,4,31,40,24,9,240,10,21,7,Team.PORTLAND_TRAIL_BLAZERS,12,2017-11-02
+2,30,83,16,28,12,36,43,12,14,240,5,20,11,Team.GOLDEN_STATE_WARRIORS,14,2017-11-02
+3,19,87,23,24,8,32,34,17,7,240,14,10,6,Team.SAN_ANTONIO_SPURS,16,2017-11-02

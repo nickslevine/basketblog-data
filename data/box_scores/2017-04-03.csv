@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,24,86,25,32,9,24,38,22,11,240,11,18,7,Team.PORTLAND_TRAIL_BLAZERS,5,2017-04-03
+1,26,84,28,9,5,32,41,24,4,240,12,18,3,Team.MINNESOTA_TIMBERWOLVES,11,2017-04-03

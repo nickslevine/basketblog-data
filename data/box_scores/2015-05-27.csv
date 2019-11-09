@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,16,74,44,24,6,29,26,33,5,240,10,26,12,Team.HOUSTON_ROCKETS,20,2015-05-27
+1,25,91,31,29,4,40,37,21,9,240,19,30,10,Team.GOLDEN_STATE_WARRIORS,16,2015-05-27

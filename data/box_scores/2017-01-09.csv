@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,30,83,11,24,5,36,47,8,7,240,6,17,5,Team.OKLAHOMA_CITY_THUNDER,12,2017-01-09
+1,18,83,22,19,2,29,34,19,7,240,9,13,7,Team.CHICAGO_BULLS,11,2017-01-09
+2,24,78,9,28,2,20,36,7,13,240,5,21,3,Team.DALLAS_MAVERICKS,14,2017-01-09
+3,30,71,21,16,4,33,40,15,6,240,9,24,11,Team.MINNESOTA_TIMBERWOLVES,18,2017-01-09
+4,24,84,19,27,7,31,41,16,12,240,8,14,11,Team.NEW_ORLEANS_PELICANS,8,2017-01-09
+5,17,85,16,29,4,33,36,13,11,240,12,18,5,Team.NEW_YORK_KNICKS,14,2017-01-09

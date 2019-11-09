@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,84,28,29,0,38,35,22,10,240,8,13,4,Team.LOS_ANGELES_CLIPPERS,13,2017-02-05
+1,24,88,20,52,3,36,37,17,16,240,9,21,9,Team.BOSTON_CELTICS,11,2017-02-05
+2,21,87,20,19,4,37,40,18,5,240,8,18,8,Team.TORONTO_RAPTORS,11,2017-02-05
+3,19,76,21,34,7,35,32,18,13,240,7,19,8,Team.BROOKLYN_NETS,21,2017-02-05
+4,15,87,21,28,4,33,35,19,10,240,11,22,6,Team.PORTLAND_TRAIL_BLAZERS,12,2017-02-05
+5,18,98,28,18,5,39,40,21,4,240,17,17,9,Team.OKLAHOMA_CITY_THUNDER,12,2017-02-05

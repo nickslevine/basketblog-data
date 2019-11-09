@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,17,90,17,37,4,36,45,14,14,240,7,23,10,Team.HOUSTON_ROCKETS,15,2017-12-03
+1,16,84,30,28,6,34,32,22,9,240,11,22,9,Team.LOS_ANGELES_LAKERS,20,2017-12-03
+2,32,84,24,30,4,34,47,18,11,240,7,14,4,Team.GOLDEN_STATE_WARRIORS,9,2017-12-03
+3,17,81,17,37,4,23,33,15,14,240,5,15,5,Team.MIAMI_HEAT,11,2017-12-03
+4,21,73,22,34,7,29,37,17,15,240,8,26,3,Team.LOS_ANGELES_CLIPPERS,16,2017-12-03
+5,22,88,31,26,1,28,38,28,8,240,14,16,9,Team.MINNESOTA_TIMBERWOLVES,7,2017-12-03
+6,19,82,29,28,3,34,37,25,6,240,8,11,8,Team.ORLANDO_MAGIC,10,2017-12-03
+7,18,93,10,15,4,35,43,9,5,240,10,24,4,Team.NEW_YORK_KNICKS,14,2017-12-03
+8,14,76,23,28,9,31,31,17,8,240,8,24,11,Team.SAN_ANTONIO_SPURS,17,2017-12-03
+9,21,87,21,22,2,32,37,10,6,240,15,19,8,Team.OKLAHOMA_CITY_THUNDER,20,2017-12-03

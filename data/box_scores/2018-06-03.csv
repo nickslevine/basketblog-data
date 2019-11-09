@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,25,90,26,27,4,26,37,20,9,240,16,15,9,Team.CLEVELAND_CAVALIERS,10,2018-06-03
+1,28,82,21,36,8,34,47,13,15,240,7,25,3,Team.GOLDEN_STATE_WARRIORS,12,2018-06-03

@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,95,19,41,4,25,33,15,8,240,12,11,12,Team.CHARLOTTE_HORNETS,9,2018-11-13
+1,23,85,12,24,3,46,45,10,13,240,14,20,5,Team.CLEVELAND_CAVALIERS,19,2018-11-13
+2,23,71,26,37,6,26,39,18,13,240,6,20,7,Team.HOUSTON_ROCKETS,14,2018-11-13
+3,27,76,16,25,2,24,38,12,11,240,7,20,11,Team.DENVER_NUGGETS,16,2018-11-13
+4,25,89,15,32,2,32,40,11,12,240,10,18,9,Team.ATLANTA_HAWKS,14,2018-11-13
+5,28,91,21,27,6,35,39,20,12,240,13,20,8,Team.GOLDEN_STATE_WARRIORS,13,2018-11-13

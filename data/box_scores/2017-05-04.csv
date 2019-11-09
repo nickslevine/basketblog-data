@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,19,84,20,32,2,34,38,16,12,240,5,23,9,Team.UTAH_JAZZ,14,2017-05-04
+1,33,85,20,31,4,38,42,17,14,240,9,20,11,Team.GOLDEN_STATE_WARRIORS,17,2017-05-04
+2,20,77,33,32,2,30,27,25,10,240,8,26,4,Team.BOSTON_CELTICS,16,2017-05-04
+3,26,92,25,25,5,37,43,22,8,240,13,26,7,Team.WASHINGTON_WIZARDS,9,2017-05-04

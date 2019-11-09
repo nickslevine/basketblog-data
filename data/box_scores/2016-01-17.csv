@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,27,82,30,20,6,24,48,21,9,240,9,29,10,Team.INDIANA_PACERS,15,2016-01-17
+1,25,91,38,26,4,25,46,27,10,240,17,26,12,Team.DENVER_NUGGETS,17,2016-01-17
+2,21,91,24,21,5,40,44,18,6,240,11,19,10,Team.HOUSTON_ROCKETS,13,2016-01-17
+3,25,82,19,19,7,33,37,15,6,240,3,16,8,Team.LOS_ANGELES_LAKERS,14,2016-01-17
+4,16,81,25,15,2,21,35,14,3,240,9,29,5,Team.PHOENIX_SUNS,15,2016-01-17
+5,23,69,40,18,7,33,39,32,7,240,8,25,11,Team.MINNESOTA_TIMBERWOLVES,15,2016-01-17
+6,12,72,11,14,9,29,30,10,4,240,7,12,6,Team.MIAMI_HEAT,19,2016-01-17
+7,24,88,12,22,8,31,40,12,7,240,13,13,11,Team.OKLAHOMA_CITY_THUNDER,14,2016-01-17
+8,20,81,25,23,6,40,29,19,6,240,5,23,4,Team.DALLAS_MAVERICKS,13,2016-01-17
+9,22,90,28,20,5,45,42,23,5,240,6,21,7,Team.SAN_ANTONIO_SPURS,7,2016-01-17

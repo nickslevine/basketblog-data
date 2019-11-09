@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,16,91,29,38,7,31,35,19,10,240,18,27,7,Team.OKLAHOMA_CITY_THUNDER,13,2017-04-25
+1,13,82,39,37,6,37,33,33,6,240,10,23,7,Team.HOUSTON_ROCKETS,12,2017-04-25
+2,25,81,16,36,4,36,35,13,13,240,7,24,10,Team.UTAH_JAZZ,12,2017-04-25
+3,16,69,29,23,2,31,29,24,10,240,3,20,7,Team.LOS_ANGELES_CLIPPERS,13,2017-04-25
+4,22,72,22,22,1,23,37,20,9,240,8,20,7,Team.MEMPHIS_GRIZZLIES,9,2017-04-25
+5,23,80,22,28,2,24,42,18,14,240,10,17,7,Team.SAN_ANTONIO_SPURS,7,2017-04-25

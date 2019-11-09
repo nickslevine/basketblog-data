@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,16,93,34,25,3,35,34,23,7,240,15,30,14,Team.PHOENIX_SUNS,19,2017-03-23
+1,25,95,42,29,5,44,43,32,8,240,17,26,11,Team.BROOKLYN_NETS,17,2017-03-23
+2,18,80,21,27,2,36,36,14,9,240,9,16,6,Team.LOS_ANGELES_CLIPPERS,17,2017-03-23
+3,26,82,18,26,4,30,38,12,9,240,4,18,11,Team.DALLAS_MAVERICKS,9,2017-03-23
+4,10,79,32,23,3,40,35,25,6,240,11,21,9,Team.TORONTO_RAPTORS,17,2017-03-23
+5,20,82,23,23,11,26,32,14,6,240,10,23,8,Team.MIAMI_HEAT,16,2017-03-23
+6,23,88,20,22,9,31,36,18,5,240,9,20,5,Team.NEW_YORK_KNICKS,11,2017-03-23
+7,15,80,29,21,2,40,39,21,11,240,10,20,8,Team.PORTLAND_TRAIL_BLAZERS,13,2017-03-23
+8,18,78,15,29,4,32,34,12,10,240,10,18,4,Team.MEMPHIS_GRIZZLIES,13,2017-03-23
+9,26,77,23,26,5,29,37,15,8,240,6,19,6,Team.SAN_ANTONIO_SPURS,6,2017-03-23

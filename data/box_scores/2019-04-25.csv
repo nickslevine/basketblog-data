@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,26,96,12,24,3,25,44,9,6,240,12,18,5,Team.DENVER_NUGGETS,7,2019-04-25
+1,25,84,17,24,7,31,48,14,10,240,10,17,3,Team.SAN_ANTONIO_SPURS,7,2019-04-25

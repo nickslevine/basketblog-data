@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,30,99,28,54,5,35,45,24,21,265,13,20,8,Team.HOUSTON_ROCKETS,10,2019-01-03
+1,33,102,15,37,6,38,53,14,14,265,9,19,8,Team.GOLDEN_STATE_WARRIORS,14,2019-01-03
+2,24,89,30,39,3,38,41,21,14,240,16,20,3,Team.DENVER_NUGGETS,14,2019-01-03
+3,25,90,15,31,3,26,45,10,13,240,7,23,5,Team.SACRAMENTO_KINGS,8,2019-01-03
+4,21,87,29,30,6,30,39,23,6,240,9,23,9,Team.TORONTO_RAPTORS,10,2019-01-03
+5,32,85,20,27,0,36,47,18,13,240,8,19,7,Team.SAN_ANTONIO_SPURS,12,2019-01-03

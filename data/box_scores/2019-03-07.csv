@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,26,90,20,37,7,34,35,14,14,240,6,16,10,Team.INDIANA_PACERS,10,2019-03-07
+1,21,86,21,35,10,44,43,17,14,240,8,19,7,Team.MILWAUKEE_BUCKS,13,2019-03-07
+2,14,105,32,27,5,42,48,25,8,265,16,31,7,Team.OKLAHOMA_CITY_THUNDER,15,2019-03-07
+3,14,94,47,41,8,37,37,38,9,265,14,27,7,Team.PORTLAND_TRAIL_BLAZERS,14,2019-03-07

@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,26,85,27,39,1,37,42,16,21,240,18,21,9,Team.CLEVELAND_CAVALIERS,18,2016-05-06
+1,29,84,12,34,7,22,41,10,16,240,6,21,8,Team.ATLANTA_HAWKS,14,2016-05-06
+2,19,76,34,19,6,33,33,24,10,240,4,19,8,Team.SAN_ANTONIO_SPURS,8,2016-05-06
+3,14,82,20,30,5,31,34,18,10,240,11,23,5,Team.OKLAHOMA_CITY_THUNDER,14,2016-05-06

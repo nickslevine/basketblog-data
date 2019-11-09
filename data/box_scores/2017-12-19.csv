@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,26,80,24,41,3,30,40,20,16,240,7,20,9,Team.CLEVELAND_CAVALIERS,14,2017-12-19
+1,27,82,27,29,3,32,43,22,11,240,8,18,12,Team.MILWAUKEE_BUCKS,14,2017-12-19
+2,21,91,23,27,6,30,41,12,7,240,9,20,11,Team.SACRAMENTO_KINGS,12,2017-12-19
+3,21,81,24,35,6,40,34,17,10,240,13,19,7,Team.PHILADELPHIA_76ERS,19,2017-12-19
+4,20,80,40,20,1,31,34,33,5,240,11,16,7,Team.NEW_ORLEANS_PELICANS,16,2017-12-19
+5,29,92,14,35,3,34,46,10,14,240,10,31,8,Team.WASHINGTON_WIZARDS,16,2017-12-19

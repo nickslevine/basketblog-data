@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,28,84,27,26,3,44,43,24,11,240,6,26,8,Team.GOLDEN_STATE_WARRIORS,11,2017-05-08
+1,13,89,28,27,4,32,33,21,8,240,10,23,7,Team.UTAH_JAZZ,9,2017-05-08

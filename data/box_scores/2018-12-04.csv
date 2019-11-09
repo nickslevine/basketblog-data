@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,20,84,23,24,6,37,38,19,7,240,11,29,7,Team.PORTLAND_TRAIL_BLAZERS,18,2018-12-04
+1,25,88,35,30,4,35,38,24,11,240,15,19,11,Team.DALLAS_MAVERICKS,13,2018-12-04
+2,26,94,5,31,2,32,37,5,11,240,12,23,8,Team.CHICAGO_BULLS,18,2018-12-04
+3,22,76,24,22,6,39,35,20,6,240,6,13,10,Team.INDIANA_PACERS,18,2018-12-04
+4,22,86,20,28,4,32,38,15,14,240,11,13,5,Team.ORLANDO_MAGIC,11,2018-12-04
+5,19,91,5,35,11,31,38,2,12,240,16,19,7,Team.MIAMI_HEAT,15,2018-12-04
+6,27,84,32,24,3,33,45,21,11,240,9,22,13,Team.SACRAMENTO_KINGS,13,2018-12-04
+7,27,87,21,43,4,30,38,17,12,240,13,27,9,Team.PHOENIX_SUNS,21,2018-12-04
+8,25,90,11,22,5,25,44,10,7,240,7,19,7,Team.SAN_ANTONIO_SPURS,16,2018-12-04
+9,38,84,20,33,5,37,51,17,20,240,5,20,12,Team.UTAH_JAZZ,17,2018-12-04

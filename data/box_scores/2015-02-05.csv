@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,20,84,17,10,5,28,35,12,5,240,9,26,2,Team.WASHINGTON_WIZARDS,12,2015-02-05
+1,15,76,27,25,15,38,33,22,6,240,12,19,5,Team.CHARLOTTE_HORNETS,14,2015-02-05
+2,24,91,20,22,1,29,38,13,5,240,14,29,9,Team.LOS_ANGELES_CLIPPERS,12,2015-02-05
+3,23,72,44,30,4,38,31,35,8,240,14,21,10,Team.CLEVELAND_CAVALIERS,18,2015-02-05
+4,20,88,17,23,2,31,34,13,6,240,11,21,11,Team.PHOENIX_SUNS,16,2015-02-05
+5,21,90,23,31,7,44,40,20,8,240,13,14,7,Team.PORTLAND_TRAIL_BLAZERS,14,2015-02-05
+6,25,96,10,34,7,40,41,7,12,240,8,19,9,Team.DALLAS_MAVERICKS,9,2015-02-05
+7,13,79,22,21,8,42,29,17,3,240,7,18,5,Team.SACRAMENTO_KINGS,17,2015-02-05

@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,20,87,37,21,7,31,30,33,3,240,7,27,9,Team.LOS_ANGELES_CLIPPERS,17,2019-02-24
+1,30,85,35,34,6,44,44,23,12,240,12,28,11,Team.DENVER_NUGGETS,22,2019-02-24
+2,18,94,31,24,4,36,42,28,6,240,14,20,3,Team.SAN_ANTONIO_SPURS,7,2019-02-24
+3,25,98,19,37,7,37,50,14,16,240,12,27,3,Team.NEW_YORK_KNICKS,6,2019-02-24
+4,29,91,20,36,8,40,42,15,14,240,12,16,6,Team.ORLANDO_MAGIC,12,2019-02-24
+5,30,91,14,28,2,36,38,11,11,240,6,20,6,Team.TORONTO_RAPTORS,13,2019-02-24

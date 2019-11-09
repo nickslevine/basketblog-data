@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,25,88,8,25,2,28,47,3,10,240,8,15,10,Team.PHOENIX_SUNS,13,2015-02-21
+1,27,89,16,24,3,33,43,14,12,240,14,14,5,Team.CHICAGO_BULLS,17,2015-02-21
+2,21,95,26,18,7,40,42,21,5,240,19,20,7,Team.OKLAHOMA_CITY_THUNDER,14,2015-02-21
+3,28,93,20,24,10,30,40,16,7,240,11,18,9,Team.CHARLOTTE_HORNETS,9,2015-02-21
+4,12,77,28,18,5,32,25,22,4,240,7,24,17,Team.TORONTO_RAPTORS,23,2015-02-21
+5,22,84,31,29,9,41,35,22,6,240,11,23,17,Team.HOUSTON_ROCKETS,23,2015-02-21
+6,18,88,46,16,7,41,30,35,4,240,14,17,4,Team.SACRAMENTO_KINGS,17,2015-02-21
+7,31,95,28,35,11,43,46,20,14,240,11,29,9,Team.LOS_ANGELES_CLIPPERS,11,2015-02-21
+8,22,83,31,21,3,30,35,27,8,240,11,25,8,Team.NEW_ORLEANS_PELICANS,12,2015-02-21
+9,15,79,27,17,7,32,33,20,5,240,13,23,5,Team.MIAMI_HEAT,17,2015-02-21

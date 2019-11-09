@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,28,93,18,27,3,28,42,13,11,240,15,21,4,Team.NEW_YORK_KNICKS,8,2019-01-01
+1,36,95,23,34,6,37,44,15,12,240,16,19,7,Team.DENVER_NUGGETS,8,2019-01-01
+2,25,87,33,26,7,38,42,23,12,240,17,28,7,Team.PHILADELPHIA_76ERS,20,2019-01-01
+3,18,91,34,25,0,29,42,24,5,240,12,29,12,Team.LOS_ANGELES_CLIPPERS,13,2019-01-01
+4,23,92,21,33,2,29,35,16,12,240,14,26,7,Team.DETROIT_PISTONS,14,2019-01-01
+5,28,79,26,27,6,38,47,17,10,240,5,19,7,Team.MILWAUKEE_BUCKS,13,2019-01-01
+6,22,90,30,32,10,46,39,26,9,265,10,19,11,Team.PORTLAND_TRAIL_BLAZERS,18,2019-01-01
+7,24,115,12,33,4,39,44,9,11,265,14,23,13,Team.SACRAMENTO_KINGS,13,2019-01-01
+8,23,97,29,32,4,31,42,23,9,240,12,27,6,Team.UTAH_JAZZ,4,2019-01-01
+9,18,82,35,20,6,40,45,25,7,240,5,21,4,Team.TORONTO_RAPTORS,9,2019-01-01

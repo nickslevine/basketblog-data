@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,104,32,17,10,48,46,22,3,290,17,21,12,Team.MILWAUKEE_BUCKS,17,2016-02-20
+1,31,106,18,41,8,39,44,12,9,290,10,27,11,Team.ATLANTA_HAWKS,16,2016-02-20
+2,32,82,26,31,2,33,42,20,11,240,6,19,8,Team.GOLDEN_STATE_WARRIORS,14,2016-02-20
+3,24,94,18,36,2,34,42,15,13,240,15,24,9,Team.LOS_ANGELES_CLIPPERS,14,2016-02-20
+4,13,99,21,22,4,33,40,11,3,240,12,23,5,Team.WASHINGTON_WIZARDS,6,2016-02-20
+5,23,96,28,13,9,48,47,18,2,240,19,20,2,Team.MIAMI_HEAT,7,2016-02-20
+6,17,83,16,17,7,40,42,14,5,240,11,19,4,Team.NEW_YORK_KNICKS,16,2016-02-20
+7,24,84,25,12,6,24,36,18,5,240,7,11,9,Team.MINNESOTA_TIMBERWOLVES,7,2016-02-20

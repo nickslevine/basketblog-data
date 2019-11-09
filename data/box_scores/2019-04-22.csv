@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,27,79,41,28,10,44,43,31,10,240,10,21,6,Team.MILWAUKEE_BUCKS,17,2019-04-22
+1,26,100,12,34,1,26,41,9,13,240,10,31,8,Team.DETROIT_PISTONS,10,2019-04-22
+2,14,79,24,46,4,26,28,18,17,240,9,23,9,Team.HOUSTON_ROCKETS,15,2019-04-22
+3,24,86,26,35,7,36,37,22,11,240,16,19,7,Team.UTAH_JAZZ,14,2019-04-22

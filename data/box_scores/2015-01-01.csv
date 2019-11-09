@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,19,92,27,14,7,40,37,22,5,240,17,27,4,Team.DENVER_NUGGETS,12,2015-01-01
+1,22,91,25,15,18,33,38,22,8,240,13,19,7,Team.CHICAGO_BULLS,7,2015-01-01
+2,23,74,29,12,7,32,40,25,5,240,10,26,7,Team.SACRAMENTO_KINGS,20,2015-01-01
+3,22,91,22,24,6,23,42,16,7,240,15,24,12,Team.MINNESOTA_TIMBERWOLVES,14,2015-01-01

@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,13,89,25,17,9,31,34,19,4,240,11,23,10,Team.UTAH_JAZZ,10,2015-11-12
+1,14,77,25,13,11,39,36,16,4,240,8,20,6,Team.MIAMI_HEAT,15,2015-11-12
+2,34,89,16,38,7,27,48,15,18,240,6,25,8,Team.GOLDEN_STATE_WARRIORS,11,2015-11-12
+3,21,87,36,9,1,32,43,27,3,240,15,18,4,Team.MINNESOTA_TIMBERWOLVES,13,2015-11-12
+4,17,90,28,26,3,25,40,15,9,240,12,17,13,Team.LOS_ANGELES_CLIPPERS,14,2015-11-12
+5,22,83,21,30,3,37,44,16,14,240,9,23,10,Team.PHOENIX_SUNS,19,2015-11-12

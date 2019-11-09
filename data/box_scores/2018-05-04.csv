@@ -1,0 +1,5 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,22,92,26,31,4,34,35,21,9,240,10,17,11,Team.GOLDEN_STATE_WARRIORS,12,2018-05-04
+1,36,96,12,31,3,44,48,9,14,240,10,20,7,Team.NEW_ORLEANS_PELICANS,15,2018-05-04
+2,26,86,20,36,7,38,42,18,11,240,3,19,8,Team.HOUSTON_ROCKETS,8,2018-05-04
+3,17,84,15,29,4,38,35,11,11,240,5,19,3,Team.UTAH_JAZZ,16,2018-05-04

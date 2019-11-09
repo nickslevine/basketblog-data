@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,33,93,12,33,4,31,54,11,19,265,4,19,7,Team.MINNESOTA_TIMBERWOLVES,11,2018-02-07
+1,33,88,23,41,1,34,52,15,21,265,7,21,5,Team.CLEVELAND_CAVALIERS,15,2018-02-07
+2,33,90,12,51,6,42,39,11,17,240,8,20,4,Team.BROOKLYN_NETS,19,2018-02-07
+3,20,92,25,24,3,38,44,18,9,240,8,12,10,Team.DETROIT_PISTONS,7,2018-02-07
+4,14,69,33,22,4,34,29,28,6,240,9,16,6,Team.UTAH_JAZZ,19,2018-02-07
+5,18,81,16,23,5,27,34,12,8,240,9,26,12,Team.MEMPHIS_GRIZZLIES,15,2018-02-07
+6,16,74,26,31,6,31,38,21,12,240,4,16,8,Team.HOUSTON_ROCKETS,9,2018-02-07
+7,23,88,12,32,3,26,39,10,13,240,15,17,3,Team.MIAMI_HEAT,13,2018-02-07
+8,26,93,27,32,6,48,46,21,16,240,14,17,6,Team.SAN_ANTONIO_SPURS,12,2018-02-07
+9,15,97,18,32,4,33,33,12,3,240,11,23,8,Team.PHOENIX_SUNS,11,2018-02-07

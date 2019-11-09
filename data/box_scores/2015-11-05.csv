@@ -1,0 +1,11 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,21,84,20,13,8,35,38,17,5,240,9,18,2,Team.OKLAHOMA_CITY_THUNDER,9,2015-11-05
+1,20,90,21,18,7,36,40,17,7,240,11,17,3,Team.CHICAGO_BULLS,6,2015-11-05
+2,19,89,17,27,6,40,44,14,6,240,8,25,8,Team.CHARLOTTE_HORNETS,11,2015-11-05
+3,17,82,27,29,2,36,32,24,6,240,8,13,8,Team.DALLAS_MAVERICKS,13,2015-11-05
+4,23,85,17,24,6,31,37,11,11,240,12,26,6,Team.UTAH_JAZZ,10,2015-11-05
+5,16,72,34,20,6,34,28,23,5,240,11,14,4,Team.DENVER_NUGGETS,13,2015-11-05
+6,14,76,25,14,6,35,37,18,4,240,7,19,6,Team.MIAMI_HEAT,16,2015-11-05
+7,16,85,22,12,6,34,30,20,4,240,10,27,7,Team.MINNESOTA_TIMBERWOLVES,16,2015-11-05
+8,20,77,21,20,5,29,37,15,7,240,7,14,4,Team.MEMPHIS_GRIZZLIES,8,2015-11-05
+9,29,87,20,30,3,33,44,12,15,240,14,19,3,Team.PORTLAND_TRAIL_BLAZERS,8,2015-11-05

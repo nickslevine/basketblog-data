@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,23,86,27,23,4,34,32,22,10,240,10,22,14,Team.INDIANA_PACERS,17,2018-11-29
+1,25,86,23,24,11,39,42,13,7,240,11,23,8,Team.LOS_ANGELES_LAKERS,18,2018-11-29
+2,25,90,28,28,5,30,50,21,12,240,8,21,7,Team.LOS_ANGELES_CLIPPERS,9,2018-11-29
+3,26,96,26,24,2,32,46,22,7,240,16,25,4,Team.SACRAMENTO_KINGS,11,2018-11-29
+4,27,103,20,30,5,29,50,17,11,265,17,22,6,Team.GOLDEN_STATE_WARRIORS,14,2018-11-29
+5,25,90,24,38,6,30,47,22,15,265,7,23,5,Team.TORONTO_RAPTORS,14,2018-11-29

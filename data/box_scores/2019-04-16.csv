@@ -1,0 +1,7 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,20,86,25,18,3,39,39,22,5,240,11,20,3,Team.SAN_ANTONIO_SPURS,10,2019-04-16
+1,29,89,26,24,2,34,43,18,10,240,7,21,5,Team.DENVER_NUGGETS,5,2019-04-16
+2,21,86,28,28,6,34,35,19,5,240,13,27,6,Team.OKLAHOMA_CITY_THUNDER,16,2019-04-16
+3,17,90,21,32,6,37,42,17,13,240,7,27,9,Team.PORTLAND_TRAIL_BLAZERS,12,2019-04-16
+4,17,81,24,34,4,33,30,13,9,240,12,18,2,Team.ORLANDO_MAGIC,17,2019-04-16
+5,25,87,17,35,5,36,42,16,11,240,6,23,10,Team.TORONTO_RAPTORS,7,2019-04-16

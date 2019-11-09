@@ -1,0 +1,3 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,30,80,26,35,7,33,37,17,11,240,7,22,8,Team.MILWAUKEE_BUCKS,12,2019-05-21
+1,32,87,27,41,5,34,41,24,14,240,10,23,9,Team.TORONTO_RAPTORS,11,2019-05-21

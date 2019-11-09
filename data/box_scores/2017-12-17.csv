@@ -1,0 +1,9 @@
+,assists,attempted_field_goals,attempted_free_throws,attempted_three_point_field_goals,blocks,defensive_rebounds,made_field_goals,made_free_throws,made_three_point_field_goals,minutes_played,offensive_rebounds,personal_fouls,steals,team,turnovers,Date
+0,21,76,19,18,7,37,43,15,8,240,6,20,6,Team.INDIANA_PACERS,15,2017-12-17
+1,26,81,21,33,2,22,34,17,12,240,7,17,7,Team.BROOKLYN_NETS,9,2017-12-17
+2,27,85,17,33,4,32,41,11,17,240,8,16,6,Team.ORLANDO_MAGIC,16,2017-12-17
+3,27,89,16,34,3,32,42,13,17,240,7,17,11,Team.DETROIT_PISTONS,13,2017-12-17
+4,25,81,8,26,9,26,38,6,11,240,6,19,9,Team.SACRAMENTO_KINGS,15,2017-12-17
+5,20,85,28,30,9,34,36,23,13,240,12,13,8,Team.TORONTO_RAPTORS,12,2017-12-17
+6,24,87,12,34,4,38,41,10,14,240,4,16,6,Team.CLEVELAND_CAVALIERS,8,2017-12-17
+7,20,91,16,33,5,38,39,9,12,240,13,18,4,Team.WASHINGTON_WIZARDS,10,2017-12-17
